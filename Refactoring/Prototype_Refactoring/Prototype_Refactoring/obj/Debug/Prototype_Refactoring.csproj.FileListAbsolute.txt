@@ -1,0 +1,7 @@
+C:\Users\HUONG\source\repos\Prototype_Refactoring\Prototype_Refactoring\obj\Debug\Prototype_Refactoring.csproj.AssemblyReference.cache
+C:\Users\HUONG\source\repos\Prototype_Refactoring\Prototype_Refactoring\obj\Debug\Prototype_Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\source\repos\Prototype_Refactoring\Prototype_Refactoring\bin\Debug\Prototype_Refactoring.exe.config
+C:\Users\HUONG\source\repos\Prototype_Refactoring\Prototype_Refactoring\bin\Debug\Prototype_Refactoring.exe
+C:\Users\HUONG\source\repos\Prototype_Refactoring\Prototype_Refactoring\bin\Debug\Prototype_Refactoring.pdb
+C:\Users\HUONG\source\repos\Prototype_Refactoring\Prototype_Refactoring\obj\Debug\Prototype_Refactoring.exe
+C:\Users\HUONG\source\repos\Prototype_Refactoring\Prototype_Refactoring\obj\Debug\Prototype_Refactoring.pdb

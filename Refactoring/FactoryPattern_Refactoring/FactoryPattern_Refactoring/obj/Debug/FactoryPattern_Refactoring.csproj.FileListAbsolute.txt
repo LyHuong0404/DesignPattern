@@ -1,0 +1,9 @@
+C:\Users\HUONG\source\repos\FactoryPattern_Refactoring\FactoryPattern_Refactoring\bin\Debug\FactoryPattern_Refactoring.exe.config
+C:\Users\HUONG\source\repos\FactoryPattern_Refactoring\FactoryPattern_Refactoring\bin\Debug\FactoryPattern_Refactoring.exe
+C:\Users\HUONG\source\repos\FactoryPattern_Refactoring\FactoryPattern_Refactoring\bin\Debug\FactoryPattern_Refactoring.pdb
+C:\Users\HUONG\source\repos\FactoryPattern_Refactoring\FactoryPattern_Refactoring\obj\Debug\FactoryPattern_Refactoring.csproj.AssemblyReference.cache
+C:\Users\HUONG\source\repos\FactoryPattern_Refactoring\FactoryPattern_Refactoring\obj\Debug\FactoryPattern_Refactoring.Properties.Resources.resources
+C:\Users\HUONG\source\repos\FactoryPattern_Refactoring\FactoryPattern_Refactoring\obj\Debug\FactoryPattern_Refactoring.csproj.GenerateResource.cache
+C:\Users\HUONG\source\repos\FactoryPattern_Refactoring\FactoryPattern_Refactoring\obj\Debug\FactoryPattern_Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\source\repos\FactoryPattern_Refactoring\FactoryPattern_Refactoring\obj\Debug\FactoryPattern_Refactoring.exe
+C:\Users\HUONG\source\repos\FactoryPattern_Refactoring\FactoryPattern_Refactoring\obj\Debug\FactoryPattern_Refactoring.pdb
